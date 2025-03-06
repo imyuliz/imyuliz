@@ -15,7 +15,7 @@
 - 🕸 AI Thinker
 - ☕️ Financial technology field
 - 📱 Innovation workers
-- 📍 Living in Chendu, China
+- 📍 Living in Chengdu, China
 - 📫 Reach me - ...
 
 
