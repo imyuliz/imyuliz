@@ -13,6 +13,7 @@
 - 👋 Hi, I’m yuliz
 - 💻 Software engineer
 - 🕸 AI Thinker
+- 🎼 Tencent QQ Music Certified Musician: 会写代码的诗人
 - ☕️ Financial technology field
 - 📱 Innovation workers
 - 📍 Living in Chengdu, China
