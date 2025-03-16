@@ -13,11 +13,12 @@
 - 👋 Hi, I’m yuliz
 - 💻 Software engineer
 - 🕸 AI Thinker
-- 🎼 Tencent QQ Music Certified Musician: 会写代码的诗人
+
 - ☕️ Financial technology field
 - 📱 Innovation workers
+- 🎼 Tencent QQ Music Certified Musician: 会写代码的诗人
 - 📍 Living in Chengdu, China
-- 📫 Reach me - ...
+- 📫 Reach me: imyulizzz@gmail.com
 
 
 <!---
